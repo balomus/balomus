@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @balomus, Stephen Mercier
 - 👀 I’m interested in programming, video games, hiking, and all things technology
-- 🌱 I’m currently learning React and other web development technologies via freecodecamp.org
+- 🌱 I’m currently working with React and other web development technologies
 - 💞️ I’m looking for an entry level web developer job
 - 📫 You can reach me at balom.us@gmail.com
